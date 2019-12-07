@@ -4,3 +4,4 @@ Red
 Yello
 Indigo
 Violet
+Unicorn
